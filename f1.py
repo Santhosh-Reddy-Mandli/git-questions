@@ -1,0 +1,5 @@
+exp=input("Enter a expression")
+result=eval(exp)
+print(result)
+print(result)
+print(result)
